@@ -1,0 +1,33 @@
+2025/12/31 20:48:24 [INFO] Tor bağlantısı doğrulanıyor...
+2025/12/31 20:48:29 [OK] ✓ Tor bağlantısı aktif! Trafik Tor ağı üzerinden geçiyor.
+2025/12/31 20:48:29 [OK] ✓ Tor Exit IP: 38.135.25.97
+2025/12/31 20:48:29 [WARN] YAML parse hatası, düz metin olarak okunuyor...
+2025/12/31 20:48:29 [INFO] 10 adet adres yüklendi. Tarama başlıyor...
+2025/12/31 20:48:29 [INFO] Maksimum eşzamanlı bağlantı: 5
+2025/12/31 20:48:29 --------------------------------------------------------------------------------
+2025/12/31 20:48:31 [SUCCESS] https://check.torproject.org -> 2805 bytes kaydedildi (check.torproject.org.html) (1.98s)
+2025/12/31 20:48:31 [SUCCESS] http://coyotevpe6ucpnnhb4es7pq7k53hmadheyukzuoule2u6dfvn75ybead.onion -> 13860 bytes kaydedildi (coyotevpe6ucpnnhb4es7pq7k53hmadheyukzuoule2u6dfvn75ybead.onion.html) (2.19s)
+2025/12/31 20:48:31 [SUCCESS] http://hubooomjabebx4fntzdx7vg52celbnvk52j6wprrtqpvsdjscnklaeqd.onion -> 17328 bytes kaydedildi (hubooomjabebx4fntzdx7vg52celbnvk52j6wprrtqpvsdjscnklaeqd.onion.html) (2.63s)
+2025/12/31 20:48:32 [SUCCESS] https://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion -> 18356 bytes kaydedildi (duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion.html) (2.86s)
+2025/12/31 20:48:34 [SUCCESS] http://b3aelitqz4izuqd7gqhol6s5jdi7bh3vrvws2sifypdgucfzbiizhrad.onion/ -> 35259 bytes kaydedildi (b3aelitqz4izuqd7gqhol6s5jdi7bh3vrvws2sifypdgucfzbiizhrad.onion.html) (2.89s)
+2025/12/31 20:48:34 [ERR] http://fakeonion1234567890.onion -> Get "http://fakeonion1234567890.onion": socks connect tcp 127.0.0.1:9150->fakeonion1234567890.onion:80: unknown error unknown code: 246 (0.01s)
+2025/12/31 20:48:34 [SUCCESS] http://hsssfzzzxboe66mtswcrhxpzlmiejv246pun3ttasg3x4y6xayjag5id.onion -> 7885 bytes kaydedildi (hsssfzzzxboe66mtswcrhxpzlmiejv246pun3ttasg3x4y6xayjag5id.onion.html) (2.57s)
+2025/12/31 20:48:36 [SUCCESS] http://darkweb6e5sfxhz4zqgqtjxxvy4evqseta6cezpkyqnlk2iarg5ynxid.onion -> 19862 bytes kaydedildi (darkweb6e5sfxhz4zqgqtjxxvy4evqseta6cezpkyqnlk2iarg5ynxid.onion.html) (5.29s)
+2025/12/31 20:48:39 [ERR] http://gsklnhapsdksdey2phhbhddcjhbzbkkebl4zckyaxt6edibg2imc6tid.onion -> Get "http://gsklnhapsdksdey2phhbhddcjhbzbkkebl4zckyaxt6edibg2imc6tid.onion": socks connect tcp 127.0.0.1:9150->gsklnhapsdksdey2phhbhddcjhbzbkkebl4zckyaxt6edibg2imc6tid.onion:80: unknown error unknown code: 242 (6.99s)
+2025/12/31 20:49:59 [ERR] https://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion -> Get "https://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion": context deadline exceeded (Client.Timeout exceeded while awaiting headers) (90.00s)
+2025/12/31 20:49:59 ================================================================================
+2025/12/31 20:49:59                           TARAMA ÖZET RAPORU
+2025/12/31 20:49:59 ================================================================================
+2025/12/31 20:49:59 Toplam Hedef       : 10
+2025/12/31 20:49:59 Başarılı           : 7
+2025/12/31 20:49:59 Başarısız          : 3
+2025/12/31 20:49:59 Uyarı (HTTP ≠ 200) : 0
+2025/12/31 20:49:59 Toplam Veri        : 0.11 MB
+2025/12/31 20:49:59 Toplam Süre        : 1m30s
+2025/12/31 20:49:59 ================================================================================
+2025/12/31 20:49:59 Sonuç Klasörü      : ./scraped/
+2025/12/31 20:49:59 Detaylı Log        : ./scan_report.log
+2025/12/31 20:49:59 ================================================================================
+2025/12/31 20:49:59 Başarı Oranı       : 70.0%
+2025/12/31 20:49:59 
+[INFO] Tarama tamamlandı!
